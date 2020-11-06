@@ -15,8 +15,8 @@ import java.util.List;
  */
 public class FlowLayout extends ViewGroup {
 
-    private int mHorizontalSpacing = 16;// 每个item的横向间距
-    private int mVerticalSpacing = 16; //每个item纵向间距
+    private int mHorizontalSpacing = 32;// 每个item的横向间距
+    private int mVerticalSpacing = 32; //每个item纵向间距
 
     public FlowLayout(Context context) {
         super(context);

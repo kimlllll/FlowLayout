@@ -7,61 +7,10 @@
     tools:context=".MainActivity">
 
     <com.kimliu.flowlayout.FlowLayout
+        android:id="@+id/flowlayout"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:padding="10dp">
-
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:background="@android:color/holo_blue_bright"
-            android:padding="5dp"
-            android:text="水果味绿茶"/>
-
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:background="@android:color/holo_blue_bright"
-            android:padding="5dp"
-            android:text="水果味"/>
-
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:background="@android:color/holo_blue_bright"
-            android:padding="5dp"
-            android:text="绿茶"/>
-
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:background="@android:color/holo_blue_bright"
-            android:padding="5dp"
-            android:text="水果味绿茶"/>
-
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:background="@android:color/holo_blue_bright"
-            android:padding="5dp"
-            android:text="茶"/>
-
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:background="@android:color/holo_blue_bright"
-            android:padding="5dp"
-            android:text="水果味绿茶水果味绿茶"/>
-
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:background="@android:color/holo_blue_bright"
-            android:padding="5dp"
-            android:text="水果味绿茶"/>
-
-
-
     </com.kimliu.flowlayout.FlowLayout>
 
 </LinearLayout>
